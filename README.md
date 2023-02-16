@@ -14,6 +14,12 @@ npm i
 
 before using it. Please note the nodejs version, preferably 18 or above.
 
+## Run
+
+```shell
+node canvas_chatgpt.mjs
+```
+
 ## Configuration
 
 Copy .env.sample to .env
@@ -54,6 +60,12 @@ npm i
 ```
 
 安装下环境即可。请注意 nodejs 版本，尽量 18 及以上。
+
+## 运行
+
+```shell
+node canvas_chatgpt.mjs
+```
 
 ## 配置
 
